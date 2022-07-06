@@ -1,2 +1,2 @@
-# dice_type.py
+# dict_type.py
 python
